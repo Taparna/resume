@@ -1,9 +1,48 @@
 {
-  "left":{
+  "basics":{
     "photo":"aparna.png",
     "name":"T.Aparna",
     "email":"aparna@gmail.com",
     "phone":"3412542634"
-
+  },
+"education":[
+  {
+    "course": "Btech(computer science and engineering)",
+    "college":[
+      "Ravindra college of engineering for women",
+      "2016-2019",
+      "70%"
+    ]
+  },
+  {
+    "course": "Intermediate(mpc)",
+    "college":[
+      "Narayana Junior College ",
+      "2013-2015",
+      "80%"
+    ]
+  },
+  {
+    "course": "SSC",
+    "college":[
+      "Keshava reddy public school",
+      "2012-2013",
+      "90%"
+    ]
   }
+],
+"skills":[
+  {
+    "name":"operating system",
+  "value":"windows,linux"
+},
+{
+  "name":"programming languages",
+  "value":"c,c++,java"
+},
+{
+  "name":"web development",
+  "value":"HTML,Python"
+}
+]
 }
